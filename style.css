@@ -1,0 +1,142 @@
+body{
+
+    margin:0px;
+    padding: 0px;
+    width: 1440px;
+    height: 650px;
+    background: #E5E5E5;
+}
+    
+p{
+    
+    margin-right:15px;
+    margin-top: 90%;
+}
+
+.logo{  
+  
+    vertical-align: top;
+    margin: 35px 0 0 0;
+    display: inline-block;     
+    
+}
+   
+.left{
+ 
+    display: inline-block;   
+    width: 45%;
+    height: 110%;    
+    margin-left: 150px;
+   
+    border-radius: 24px;
+  
+}
+
+.text-input{
+    float: left;
+    margin-left:10%;
+    margin-top:25%;
+    margin-bottom: 5%;
+    width: 90%;
+    height: 50%;
+    font-size: 20px;
+    border: none;
+    background: #E5E5E5;
+    outline: none;
+    color: #0A3871;
+    text-align: top;
+  
+
+    }
+
+    #btn-encriptar{   
+        display: inline-block; 
+        padding: 24px;     
+        width: 45%;
+        height: 67px;    
+        border-radius: 24px;
+        margin-top: 5%;
+        margin-right: 5%;
+        background: #0A3871;    
+        }
+    
+    #btn-desencriptar{
+        display: inline-block; 
+        padding: 24px; 
+        width: 45%;
+        height: 67px;
+        border-radius: 24px;
+        
+        margin-top: 5%;
+        background: #D8DFE8;      
+        }
+
+.right{
+   margin-top: 40px;
+    float: right;
+    width: 400px;
+    height: 100%;    
+    border-radius: 24px;
+    background: white;    
+    }    
+
+    #imgDer{
+        margin-top: 20%;
+        margin-left:10%;
+        
+        
+        width: 80%;
+        
+        }
+    
+    #texto{
+    width: 80%;
+   
+    margin-left: 10%;
+    
+    text-align: center;
+    font-family: Inter;
+    font-style: Bold;
+    Font-size: 24px;
+    line-height: 29px;
+    line-height: 120%;
+    vertical-align: Top;
+  
+       
+        }
+    
+    #texto2{
+        width: 80%;
+
+        margin-top: 10px;
+        margin-left: 10%;
+       
+       
+        font-size: Inter;
+        Font-style: Regular;
+        font-size: 16px;
+        Line-height: 24px;   
+        Line-height: 150%;
+        text-align: center;
+        Vertical-align: Top;
+        color: #0A3871;
+
+        border: none;
+        outline: none;
+
+        }
+
+        #copiar{
+            margin-left: 33%;
+            margin-top: 90%;
+            padding: 24px;
+            width: 40%;
+            height:10%;
+            background: #D8DFE8;
+            border-radius: 24px;
+            display: none;
+            }
+    
+    
+    
+
